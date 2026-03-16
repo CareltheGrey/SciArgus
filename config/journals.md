@@ -1,118 +1,68 @@
-bioRxiv
-arXiv
-EcoEvoRxiv
-EarthArXiv
-OSF Preprints
+American Journal of Science
+Applied Computing and Geosciences
+BULLETIN OF THE GEOLOGICAL SOCIETY OF AMERICA
+Canadian Journal of Earth Sciences
+Chemical Geology
+Communs geol. Surv. Namibia
+Computers & Geosciences
+Earth and Planetary Science Letters
+Earth and Planetary Science Lettesr
+Earth and Space Science
+Earth Surface Dynamics
+Earth Surface Processes and Landforms
+Earth-Science Reviews
+Ecology and Evolution
+Elsevier
+Environmental Earth Sciences
+Geochemistry, Geophysics, Geosystems
+Geografiska Annaler Series A, Physical Geography
+Geografiska Annaler; Series A, Physical Geography
+Geography Compass
+Geology
+Geology, Ecology, and Landscapes
+Geomorphology
+Geoscience Frontiers
+Geosystems and Geoenvironment
+Gondwana Research
+GSA Today
+International Journal of Geo-Information
+Journal of African Earth Sciences
+Journal of Arid Environments
+Journal of Asian Earth Sciences
+Journal of Geophysical Research
+Journal of Geophysical Research; Earth Surface
+Journal of Geophysical Research; Solid Earth
+Journal of South American Earth Sciences
+Journal of the Geological Society
+Landscapes and Landforms of South Africa, World Geomorphological Landscapes
+Marine Geology
 Nature
+Nature Publishing Group
+New Zealand Journal of Geology and Geophysics
+Open Geosciences
+Palaeogeography, Palaeoclimatology, Palaeoecology
+Permafrost and Periglacial Processes
+Physical Geography
+Polar Geography
+Proceedings of Geomorphometry
+Proceedings of the Geologists' Association
+Progress in Physical Geography; Earth and Environment
+Quaternary Environmental Change in Southern Africa
+Quaternary environmental change in Southern Africa physical and human dimensions
+Quaternary International
+Quaternary Science Reviews
+Remote Sensing
+Reviews in Mineralogy and Geochemistry
 Science
-Proceedings of the National Academy of Sciences
-Nature Communications
 Science Advances
-PLOS One
-Scientific Reports
-Current Biology
-Proceedings of the Royal Society B: Biological Sciences
-One Earth
-PeerJ
-eLife
-Cell
-iScience
-Nature Ecology & Evolution
-Nature Climate Change
-Nature Geoscience
-Nature Machine Intelligence
-Nature Sustainability
-Nature Plants
-Nature Water
-Nature Computational Science
-Scientific Data
-Nature Methods
-Trends in Ecology & Evolution
-Annual Review of Ecology, Evolution, and Systematics
-Annual Review of Environment and Resources
-Annual Review of Earth and Planetary Sciences
-Biological Reviews
-Nature Reviews Earth & Environment
-Ecology Letters
-Global Change Biology
-Conservation Letters
-Journal of Applied Ecology
-Conservation Biology
-Biological Conservation
-Ecological Applications
-Methods in Ecology and Evolution
-Ecology
-Journal of Ecology
-Oikos
-Oecologia
-Diversity and Distributions
-Global Ecology and Biogeography
-Functional Ecology
-Landscape Ecology
-Ecosystems
-Frontiers in Ecology and the Environment
-The American Naturalist
-Ecography
-Biodiversity and Conservation
-Animal Conservation
-Perspectives in Plant Ecology, Evolution and Systematics
-Basic and Applied Ecology
-Plant Ecology
-Evolutionary Applications
-Journal of Animal Ecology
-Journal of Biogeography
-Restoration Ecology
-Urban Ecosystems
-Biological Invasions
-Biotropica
-Conservation Science and Practice
-Ecological Monographs
-Ecological Indicators
-Marine Ecology Progress Series
-Freshwater Biology
-Forest Ecology and Management
-Wildlife Research
-Wildlife Society Bulletin
-The Journal of Wildlife Management
-Oryx
-Biogeochemistry
-Ecological Modelling
-Remote Sensing of Environment
-ISPRS Journal of Photogrammetry and Remote Sensing
-IEEE Transactions on Geoscience and Remote Sensing
-International Journal of Applied Earth Observation and Geoinformation
-IEEE Geoscience and Remote Sensing Letters
-IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
-Remote Sensing Letters
-Remote Sensing Applications: Society and Environment
-Remote Sensing in Ecology and Conservation
-ISPRS International Journal of Geo-Information
-Journal of Machine Learning Research
-Journal of Artificial Intelligence Research
-Environmental Data Science
-Environmental Modelling & Software
-Ecological Informatics
-Environmental Research Letters
-Science of The Total Environment
-Journal of Environmental Management
-Global Environmental Change
-Earth System Dynamics
-Global Biogeochemical Cycles
-Journal of Environmental Informatics
-Ecological Economics
-Ecosystem Services
-Environmental Science & Policy
-Journal of Environmental Economics and Management
-Review of Environmental Economics and Policy
-Environmental and Resource Economics
-Advances in Neural Information Processing Systems
-International Conference on Machine Learning
-International Conference on Learning Representations
-Proceedings of the AAAI Conference on Artificial Intelligence
-Ecology and Society
-People and Nature
-Ambio
-Geoscientific Model Development
-Big Earth Data
-Bioacoustics
-National Bureau of Economic Research
+Solid Earth
+South African Geographical Journal
+South African Journal of Geology
+South African Journal of Science
+Tectonophysics
+Terra Nova
+The Holocene
+The Journal of Geology
+Transactions of the Royal Society of South Africa
+Water SA
+Zeitschrift für Geomorphologie Supplementary Issues
