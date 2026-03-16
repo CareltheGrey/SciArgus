@@ -4,7 +4,7 @@ My research engages with the geomorphology of mountainous environments, with a p
 #Remote Sensing in Geomorphological Research
 I apply remote sensing techniques to investigate surface processes and landform change at scales that are difficult to access through conventional fieldwork. This includes the use of satellite-derived data — including radar and optical imagery — to detect and monitor geomorphological activity, with particular interest in Sentinel-1 SAR data and interferometric approaches for surface deformation analysis.
 
-# Differential SAR Interferometry (DInSAR)
+#Differential SAR Interferometry (DInSAR)
 A specific focus of my remote sensing work involves Differential Synthetic Aperture Radar Interferometry (DInSAR) as a tool for detecting subtle surface displacements in mountainous terrain. I am interested in how phase-difference information derived from multi-temporal SAR acquisitions can be used to identify mass movement, periglacial activity, and other geomorphological phenomena across complex, high-relief landscapes.
 
 #GIS-Based Geomorphological Mapping
