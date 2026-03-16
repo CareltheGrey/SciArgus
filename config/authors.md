@@ -1,42 +1,49 @@
-Robert Heilmayr
-Zhe Zhu
-Sherrie Wang
-Konstantin Klemmer
-Sophus zu Ermgassen
-Jonathan Proctor
-Charlotte Pelletier
-Andrew Balmford
-Luke Sanford
-Lily Xu
-Julia P G Jones
-Marc Rußwurm
-Esther Rolf
-Laura Dee
-Oisin Mac Aodha
-Sara Beery
-Maxim Neumann
-Drew Purves
-James Oakleaf
-Maria Voigt
-Christina Kennedy
-David Theobald
-Jasper Slingsby
-Adam M Wilson
-Sally Archibald
-Zander Venter
-Jorge G. Álvarez-Romero
-Tim Boucher
-Fernanda Thiesen Brum
-Hugh Possingham
-Joe Kiesecker
-Nick Wolff
-Luke Parsons
-James Erbaugh
-Peter Ellis
-Priya Shyamsundar
-Phillip Loering
-Brian Pentz
-Katherine Hayhoe
-Nichole Barger
-John Poulsen
-Geethen Singh
+A. Fleming
+François Guillocheau
+Jean Braun
+G. Booth-Rea
+José M. Azañón
+J. E. Decker
+Jennifer M. Fitchett
+S. Niederman
+Roderick Brown
+Michael Holz
+Louis Andreani
+Lester King
+Kevin Hall
+José V. Pérez-Peña
+David Hedding
+David Sugden
+Colin Ballantyne
+Ian Meiklejohn
+Paul Sumner
+Jasper Knight
+Stefan Grab
+Paul Bierman
+Stuart Phinn
+Graeme Foody
+Michael Bishop
+Txomin Hermosilla
+John Townshend
+Didier Massonnet
+Kurt Feigl
+Falk Amelung
+Tim Wright
+Zhenhong Li
+Andrew Hooper
+Peter Guth
+John Lindsay
+Olaf Zielinski
+Helena Mitasova
+Ian Evans
+Richard Pike
+Mike Summerfield
+Paul Bishop
+Kerry Gallagher
+Andrew Goudie
+Fenton Cotterill
+Pieter Vermeesch
+David Fink
+Darryl Granger
+Lewis Owen
+Maarten Krol
